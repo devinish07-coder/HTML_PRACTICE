@@ -25,7 +25,7 @@ A clean and responsive personal profile card built using HTML and CSS. This proj
 
 ## Preview :
 
-[output](output.png)
+[output](output.jpeg)
 
 ## Purpose
 
