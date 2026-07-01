@@ -1,8 +1,8 @@
-## Profile Card
+##Profile Card
 
 A clean and responsive personal profile card built using HTML and CSS. This project showcases a simple UI design with personal information, profile image, profession, and skills.
 
-## Features
+##Features
 
 - Responsive profile card layout
 - Profile image section
@@ -12,35 +12,26 @@ A clean and responsive personal profile card built using HTML and CSS. This proj
 - Built using only HTML and CSS
 - No JavaScript used
 
-## Technologies Used
+##Technologies Used
 
 - HTML5
 - CSS3
 
-## Project Structure
-
-Profile-Card/
-│── profile.html
-│── style.css
-│── assets/
-│   └── profile-image.jpg
-└── README.md
-
-## Getting Started
+##Getting Started
 
 1. Clone the repository.
 2. Open the project folder.
 3. Open "profile.html" in your web browser.
 
-## Preview :
+##Preview :
 
 [output](output.png)
 
-## Purpose
+##Purpose
 
 This project was created to practice HTML and CSS fundamentals, improve UI design skills, and build a clean, responsive profile card without using JavaScript.
 
-## Author
+##Author
 
 **Devipriya B**
 
@@ -52,4 +43,4 @@ This project was created to practice HTML and CSS fundamentals, improve UI desig
 
 ---
 
-## If you found this project helpful, feel free to ⭐ the repository.
+##If you found this project helpful, feel free to ⭐ the repository.
